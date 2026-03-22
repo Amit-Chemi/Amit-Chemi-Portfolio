@@ -6,22 +6,22 @@ I focus on data analysis, working with databases, and understanding how data sup
 Right now I’m building practical skills in SQL, Python, and problem-solving, and looking for a student position as a Data Analyst or Product Manager.
 
 🔍 What I’m interested in
-Working with data and understanding how it behaves
-Finding patterns and inconsistencies
-Improving processes using data
+Working with data and understanding how it behaves,
+Finding patterns and inconsistencies,
+Improving processes using data,
 Connecting data to product and business decisions
 
 🛠 Skills & Tools
-SQL: joins, aggregations, writing structured queries
-Python: pandas, NumPy (mainly for data work)
-Excel: analysis, organization, basic reporting
+SQL: joins, aggregations, writing structured queries,
+Python: pandas, NumPy (mainly for data work),
+Excel: analysis, organization, basic reporting,
 C++: structured programming and logic
 
 📂 Projects
 This repository includes academic and personal projects where I:
-Analyze data using SQL
-Solve problems with C++
-Work through structured tasks step by step
+Analyze data using SQL,
+Solve problems with C++,
+Work through structured tasks step by step,
 
 Each project includes a short README explaining what I did and how I approached it.
 
